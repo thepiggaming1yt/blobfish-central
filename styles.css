@@ -1,6 +1,6 @@
 #body-home {
   background-image: url("./img/logo.png");
-  background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
