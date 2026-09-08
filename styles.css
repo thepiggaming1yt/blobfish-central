@@ -37,6 +37,7 @@
   transform: translate(-50%, -50%);
 
   font-family: "Unitblock";
+  font-size: 30cqw;
   color: #461b16;
 }
 
@@ -47,5 +48,18 @@
   transform: translate(-50%, -50%);
   
   font-family: "Unitblock";
+  font-size: 15cqw;
   color: #461b16;
+}
+
+.toptextholder {
+  position: relative;
+  top: 15%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+  width: 75%;
+  height: 20%;
+
+  container-type: inline-size;
 }
