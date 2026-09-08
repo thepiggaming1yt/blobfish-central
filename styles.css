@@ -53,7 +53,7 @@
 }
 
 .toptextholder {
-  position: relative;
+  position: absolute;
   top: 15%;
   left: 50%;
   transform: translateX(-50%);
@@ -61,5 +61,4 @@
   width: 75%;
   height: 45%;
 
-  container-type: inline-size;
 }
