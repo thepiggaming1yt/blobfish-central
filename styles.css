@@ -1,3 +1,9 @@
+@font-face {
+  font-family: "Unitblock";
+  src: url("./fonts/Unitblock.otf") 
+  format("opentype");
+}
+
 #body-home {
   background-image: url("./img/background-home.png");
   background-size: 100%, 100%;
@@ -6,6 +12,8 @@
 }
 
 #page-nav-home {
+  display: flex;
+
   position: absolute;
   top: 75%;
   left: 50%;
@@ -22,3 +30,22 @@
   height: 40%;
 }
 
+.toptext {
+  position: absolute;
+  top: 75%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+  font-family: "Unitblock";
+  font-size: 25vw;
+}
+
+.toppagetext{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  
+  font-family: "Unitblock";
+  font-size: 12.5vw;
+}
