@@ -12,10 +12,10 @@
   transform: translate(-50%, -50%);
 
   border-radius: 25px;
-  border-width: 10px;
+  border: 10px;
   border-color: #c9584b;
   
-  background-color: salmon;
+  background-color: rgba(247, 141, 130, 0.6);
 
   width: 75%;
   height: 40%;
