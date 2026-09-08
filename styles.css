@@ -37,7 +37,7 @@
   transform: translate(-50%, -50%);
 
   font-family: "Unitblock";
-  font-size: 30cqw;
+  font-size: 15cqw;
   color: #461b16;
 }
 
@@ -48,7 +48,7 @@
   transform: translate(-50%, -50%);
   
   font-family: "Unitblock";
-  font-size: 15cqw;
+  font-size: 7.5cqw;
   color: #461b16;
 }
 
@@ -59,7 +59,7 @@
   transform: translate(-50%, -50%);
 
   width: 75%;
-  height: 20%;
+  height: 45%;
 
   container-type: inline-size;
 }
