@@ -4,3 +4,22 @@
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
+<<<<<<< HEAD
+
+#page-nav-home {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+
+  border-radius: 10%;
+  border-width: 10px;
+  border-color: #c9584b;
+  
+  background-color: salmon;
+
+  width: 75%;
+  height: 40%;
+}
+=======
+
+>>>>>>> 96a97bb7ecec848491b07bdf03d2826e1161e869
