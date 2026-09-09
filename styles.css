@@ -4,14 +4,14 @@
   format("opentype");
 }
 
-/* HOMEPAGE */
-
-#body-home {
-  background-image: url("./img/background-home.png");
+#body-pages {
+  background-image: url("./img/background.png");
   background-size: 100%, 100%;
   background-repeat: repeat-y;
   background-attachment: fixed;
 }
+
+/* HOMEPAGE */
 
 #page-nav-home {
   display: flex;
