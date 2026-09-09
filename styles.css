@@ -4,6 +4,8 @@
   format("opentype");
 }
 
+/* HOMEPAGE */
+
 #body-home {
   background-image: url("./img/background-home.png");
   background-size: 100%, 100%;
@@ -13,6 +15,7 @@
 
 #page-nav-home {
   display: flex;
+  flex-wrap: wrap;
 
   position: absolute;
   top: 75%;
@@ -28,8 +31,26 @@
 
   width: 75%;
   height: 40%;
+
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
 }
 
+.navhome-button {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  width: 10%;
+  aspect-ratio: 1/1;
+
+  font-family: "Unitblock";
+  color: #461b16;
+}
+
+/* TOP TEXT */
 .toptext {
   position: absolute;
   top: 25%;
