@@ -127,3 +127,8 @@
 
   border-radius: 10%;
 }
+
+.game-button img {
+  max-width: 80%;
+  aspect-ratio: 1/1;
+}
