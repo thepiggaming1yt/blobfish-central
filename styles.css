@@ -69,6 +69,17 @@
   color: #ffedeb;
 }
 
+.toptext2 {
+  position: absolute;
+  top: 75%;
+  left: 50%;
+  transform: translateX(-50%);
+
+  font-family: "Unitblock";
+  font-size: 6cqw;
+  color: #7f38f1;
+}
+
 .toppagename{
   position: absolute;
   top: 50%;
@@ -131,4 +142,5 @@
 .game-button img {
   max-width: 80%;
   aspect-ratio: 1/1;
+  border-radius: 10%
 }
