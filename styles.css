@@ -41,7 +41,7 @@
   align-items: center;
   justify-content: center;
   gap: 10px;
-  width: 10%;
+  width: 15%;
   aspect-ratio: 1/1;
 
   font-family: "Unitblock";
@@ -103,24 +103,6 @@
 }
 
 /* GAMES */
-
-
-.navhome-button {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  gap: 10px;
-  width: 25%;
-  aspect-ratio: 1/1;
-
-  font-family: "Unitblock";
-  color: #461b16;
-
-  background-color: rgba(168, 91, 82, 0.6);
-
-  border-radius: 10%;
-}
 
 .game-button {
   display: flex;
